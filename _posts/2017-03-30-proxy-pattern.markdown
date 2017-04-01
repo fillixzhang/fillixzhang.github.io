@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Proxy Pattern"
-date: 2017-03-18
+date: 2017-03-30
 categories: design pattern
 ---
 
